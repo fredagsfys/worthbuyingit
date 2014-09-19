@@ -1,0 +1,5 @@
+C:\Users\Haris Kljajic\Documents\Visual Studio 2013\Projects\WorthBuyingIt\WorthBuyingIt.Models\obj\Debug\WorthBuyingIt.Models.csprojResolveAssemblyReference.cache
+C:\Users\Haris Kljajic\Documents\Visual Studio 2013\Projects\WorthBuyingIt\WorthBuyingIt.Models\bin\Debug\WorthBuyingIt.Models.dll
+C:\Users\Haris Kljajic\Documents\Visual Studio 2013\Projects\WorthBuyingIt\WorthBuyingIt.Models\bin\Debug\WorthBuyingIt.Models.pdb
+C:\Users\Haris Kljajic\Documents\Visual Studio 2013\Projects\WorthBuyingIt\WorthBuyingIt.Models\obj\Debug\WorthBuyingIt.Models.dll
+C:\Users\Haris Kljajic\Documents\Visual Studio 2013\Projects\WorthBuyingIt\WorthBuyingIt.Models\obj\Debug\WorthBuyingIt.Models.pdb
