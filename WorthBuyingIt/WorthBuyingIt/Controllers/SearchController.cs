@@ -7,10 +7,9 @@ namespace WorthBuyingIt.Controllers
     public class SearchController : RavenController
     {
         /// <summary>
-        /// 
+        /// Method used to show first page on startpage returning a View.
         /// </summary>
-        /// <returns></returns>
-
+        /// <returns>Views/Search/Search.cshtml</returns>
         [HttpGet]
         public ActionResult Index()
         {
@@ -18,12 +17,11 @@ namespace WorthBuyingIt.Controllers
         }
 
         /// <summary>
-        /// 
+        /// Method querying distinct products from database and returning filtered on params.
         /// </summary>
         /// <param name="value">Takes a search value from user</param>
         /// <param name="take">How many results to take per page</param>
         /// <returns>Json productlist result</returns>
-
         [HttpGet]
         public JsonResult GetDistinctProducts(string value, int take = 10)
         {
