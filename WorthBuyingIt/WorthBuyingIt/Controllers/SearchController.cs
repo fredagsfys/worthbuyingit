@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 using System.Web.Mvc;
-using WorthBuyingIt.Models;
+using WorthBuyingIt.Models.Product;
 
 namespace WorthBuyingIt.Controllers
 {
