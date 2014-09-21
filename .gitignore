@@ -220,5 +220,8 @@ UpgradeLog*.htm
 *.bim.layout
 *.bim_*.settings
 
+# WBI specific
+obj/
+
 # Microsoft Fakes
 FakesAssemblies/
