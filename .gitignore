@@ -221,7 +221,10 @@ UpgradeLog*.htm
 *.bim_*.settings
 
 # WBI specific
-obj/
+WorthBuyingIt/WorthBuyingIt.Data.Raven/bin/*
+WorthBuyingIt/WorthBuyingIt.Data.Raven/obj/*
+WorthBuyingIt/WorthBuyingIt.Models/bin/*
+WorthBuyingIt/WorthBuyingIt.Models/obj/*
 
 # Microsoft Fakes
 FakesAssemblies/
