@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
-using WBI.Models.Product;
 
-namespace WorthBuyingIt.Models.Product
+namespace WBI.Models.Product
 {
     public class Product
     {

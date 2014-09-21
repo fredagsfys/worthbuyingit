@@ -9,7 +9,7 @@
     <ProjectGuid>{CE3C3B2D-3C10-4472-8D3F-969FE35DC9F8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WorthBuyingIt.Tests</RootNamespace>
+    <RootNamespace>WBI.Tests</RootNamespace>
     <AssemblyName>WorthBuyingIt.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

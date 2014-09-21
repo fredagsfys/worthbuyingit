@@ -80,6 +80,7 @@ dlldata.c
 *.ilk
 *.meta
 *.obj
+*.obj/debug
 *.pch
 *.pdb
 *.pgc
@@ -219,6 +220,11 @@ UpgradeLog*.htm
 *.bim.layout
 *.bim_*.settings
 
+# WBI specific
+WorthBuyingIt/WorthBuyingIt.Data.Raven/bin/Debug/*
+WorthBuyingIt/WorthBuyingIt.Data.Raven/obj/*
+WorthBuyingIt/WorthBuyingIt.Models/bin/*
+WorthBuyingIt/WorthBuyingIt.Models/obj/*
+
 # Microsoft Fakes
 FakesAssemblies/
-
