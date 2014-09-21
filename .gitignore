@@ -80,6 +80,7 @@ dlldata.c
 *.ilk
 *.meta
 *.obj
+*.obj/debug
 *.pch
 *.pdb
 *.pgc
@@ -221,4 +222,3 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
-

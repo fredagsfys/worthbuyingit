@@ -1,8 +1,9 @@
 ﻿using System.Linq;
 using System.Web.Mvc;
-using WorthBuyingIt.Models.Product;
+using WBI.Data.Raven;
+using WBI.Models.Product;
 
-namespace WorthBuyingIt.Controllers
+namespace WBI.Controllers
 {
     public class SearchController : RavenController
     {
@@ -13,7 +14,7 @@ namespace WorthBuyingIt.Controllers
         [HttpGet]
         public ActionResult Index()
         {
-            return View("Search");
+            return View("Search", null);
         }
 
         /// <summary>

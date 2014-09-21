@@ -1,15 +1,10 @@
 ﻿using System;
-using System.Collections.Concurrent;
-using System.ComponentModel.Composition.Hosting;
 using System.Configuration;
-using System.Linq;
 using Raven.Client;
 using Raven.Client.Document;
 using Raven.Client.Extensions;
-using Raven.Client.Indexes;
-using WorthBuyingIt.Controllers;
 
-namespace WorthBuyingIt.Data.Raven
+namespace WBI.Data.Raven
 {
     /// <summary>
     /// This class manages the state of objects that desire a document session. We aren't relying on an IoC container here

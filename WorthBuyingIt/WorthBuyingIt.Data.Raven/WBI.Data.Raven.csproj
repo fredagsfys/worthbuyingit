@@ -7,7 +7,7 @@
     <ProjectGuid>{296E37ED-97CE-4805-9E3C-359912603D41}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WorthBuyingIt.Data.Raven</RootNamespace>
+    <RootNamespace>WBI.Data.Raven</RootNamespace>
     <AssemblyName>WorthBuyingIt.Data.Raven</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

@@ -19,3 +19,4 @@ C:\Users\Haris Kljajic\Documents\GitHub\worthbuyingit\WorthBuyingIt\WorthBuyingI
 C:\Users\Haris Kljajic\Documents\GitHub\worthbuyingit\WorthBuyingIt\WorthBuyingIt.Data.Raven\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\Haris Kljajic\Documents\GitHub\worthbuyingit\WorthBuyingIt\WorthBuyingIt.Data.Raven\obj\Debug\WorthBuyingIt.Data.Raven.dll
 C:\Users\Haris Kljajic\Documents\GitHub\worthbuyingit\WorthBuyingIt\WorthBuyingIt.Data.Raven\obj\Debug\WorthBuyingIt.Data.Raven.pdb
+C:\Users\Haris Kljajic\Documents\GitHub\worthbuyingit\WorthBuyingIt\WorthBuyingIt.Data.Raven\obj\Debug\WBI.Data.Raven.csprojResolveAssemblyReference.cache
