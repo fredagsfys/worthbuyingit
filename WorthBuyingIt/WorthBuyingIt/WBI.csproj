@@ -182,13 +182,13 @@
     <None Include="Project_Readme.html" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WorthBuyingIt.Data.Raven\WorthBuyingIt.Data.Raven.csproj">
+    <ProjectReference Include="..\WorthBuyingIt.Data.Raven\WBI.Data.Raven.csproj">
       <Project>{296e37ed-97ce-4805-9e3c-359912603d41}</Project>
-      <Name>WorthBuyingIt.Data.Raven</Name>
+      <Name>WBI.Data.Raven</Name>
     </ProjectReference>
-    <ProjectReference Include="..\WorthBuyingIt.Models\WorthBuyingIt.Models.csproj">
+    <ProjectReference Include="..\WorthBuyingIt.Models\WBI.Models.csproj">
       <Project>{94b21c1c-22ed-44a4-9dc1-2f2a958f9306}</Project>
-      <Name>WorthBuyingIt.Models</Name>
+      <Name>WBI.Models</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

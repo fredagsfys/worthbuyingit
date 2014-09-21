@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30324.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorthBuyingIt", "WorthBuyingIt\WorthBuyingIt.csproj", "{151E80E8-36F5-4E16-8B5C-4BE381EF5B2E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WBI", "WorthBuyingIt\WBI.csproj", "{151E80E8-36F5-4E16-8B5C-4BE381EF5B2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorthBuyingIt.Tests", "WorthBuyingIt.Tests\WorthBuyingIt.Tests.csproj", "{CE3C3B2D-3C10-4472-8D3F-969FE35DC9F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WBI.Tests", "WorthBuyingIt.Tests\WBI.Tests.csproj", "{CE3C3B2D-3C10-4472-8D3F-969FE35DC9F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorthBuyingIt.Data.Raven", "WorthBuyingIt.Data.Raven\WorthBuyingIt.Data.Raven.csproj", "{296E37ED-97CE-4805-9E3C-359912603D41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WBI.Data.Raven", "WorthBuyingIt.Data.Raven\WBI.Data.Raven.csproj", "{296E37ED-97CE-4805-9E3C-359912603D41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorthBuyingIt.Models", "WorthBuyingIt.Models\WorthBuyingIt.Models.csproj", "{94B21C1C-22ED-44A4-9DC1-2F2A958F9306}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WBI.Models", "WorthBuyingIt.Models\WBI.Models.csproj", "{94B21C1C-22ED-44A4-9DC1-2F2A958F9306}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
