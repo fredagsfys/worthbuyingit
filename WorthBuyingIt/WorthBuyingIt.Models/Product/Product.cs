@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Linq;
-using System.Net.Mime;
-using System.Web;
+﻿using System.Collections.Generic;
+using WBI.Models.Product;
 
-namespace WorthBuyingIt.Models
+namespace WorthBuyingIt.Models.Product
 {
     public class Product
     {
@@ -14,8 +10,7 @@ namespace WorthBuyingIt.Models
         public string Brand { get; set; }
         public string SerialNumber { get; set; } 
         public  string Image { get; set; }
-        public List<Pros> Pros { get; set; }
-        public List<Cons> Cons { get; set; }
+        public List<Review> Reviews { get; set; }
         public Rating Rating { get; set; }
     }
 }
