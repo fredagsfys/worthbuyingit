@@ -3,7 +3,7 @@ using Raven.Abstractions.Exceptions;
 using Raven.Abstractions.Logging;
 using Raven.Client;
 
-namespace WorthBuyingIt.Controllers
+namespace WBI.Data.Raven
 {
     public abstract class BackgroundTask
     {

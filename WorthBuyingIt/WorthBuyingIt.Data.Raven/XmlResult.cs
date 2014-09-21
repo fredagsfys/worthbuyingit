@@ -2,7 +2,7 @@
 using System.Xml;
 using System.Xml.Linq;
 
-namespace WorthBuyingIt.Controllers
+namespace WBI.Data.Raven
 {
     public class XmlResult : ActionResult
     {

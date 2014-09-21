@@ -4,7 +4,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Raven.Client;
 
-namespace WorthBuyingIt.Controllers
+namespace WBI.Data.Raven
 {
     public static class TaskExecutor
     {
