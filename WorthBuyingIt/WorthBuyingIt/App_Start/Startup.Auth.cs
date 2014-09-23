@@ -28,9 +28,9 @@ namespace WBI
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseFacebookAuthentication(
+               appId: "717203744993469",
+               appSecret: "6785f730ef18fd87993c4abeb3ed5f56");
 
             app.UseGoogleAuthentication();
         }
