@@ -103,6 +103,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ApplicationUser.cs" />
     <Compile Include="BackgroundTask.cs" />
     <Compile Include="RavenStore.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
