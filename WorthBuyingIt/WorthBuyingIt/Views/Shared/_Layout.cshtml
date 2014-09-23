@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNet.Identity
+
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -23,6 +25,7 @@
                     <li>@Html.ActionLink("Home", "Index", "Search")</li>
                     <li>@Html.ActionLink("About", "Index", "Search")</li>
                     <li>@Html.ActionLink("Contact", "Index", "Search")</li>
+                    @Html.Partial("_LoginPartial")
                 </ul>
             </div>
         </div>
